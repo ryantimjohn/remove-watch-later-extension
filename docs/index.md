@@ -1,5 +1,7 @@
 # Remove Watch Later
 
+## Data Collection Policy
+
 This extension does not collect any user data.
 
 ## How To Use
